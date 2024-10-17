@@ -17,14 +17,6 @@
               };
             };
 
-	    swap = {
-	      size = "4G";
-	      content = {
-            type = "swap";
-		        resumeDevice = true;
-	      };
-	    };
-
             root = {
               size = "100%";
               content = {
